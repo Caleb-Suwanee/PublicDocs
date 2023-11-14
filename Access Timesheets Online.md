@@ -44,3 +44,7 @@
 ![Login to Timesheets](refs/AccessTimesheetsOnline/8.png)
 
 >The **10-key numbers** on the right-hand side of the keyboard might not work inside the Timesheet module. Try using the numbers at the top of your keyboard.
+
+---
+
+[Back to Main](README.md)
