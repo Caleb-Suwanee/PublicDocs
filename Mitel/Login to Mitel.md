@@ -12,3 +12,7 @@
     ![Mitel Login](../refs/Mitel/2.png)
 
 1. Click **Login** and you're done!
+
+---
+
+[Back to Main](README.md)
