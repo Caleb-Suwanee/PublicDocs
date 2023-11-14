@@ -10,6 +10,8 @@
 
 - [Record Voicemail](./Mitel/Record%20Voicemail.md)
 
+- [Block a Phone Number](./Mitel/Block%20a%20Phone%20Number.md)
+
 [![Suwanee Logo](refs/Full%20Logo.png)](https://suwanee.com)
 
 All things Suwanee on 🚀 GitHub
