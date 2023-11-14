@@ -4,8 +4,6 @@
 
 ## - [Enable Pop-ups in Chrome](./Enable%20Pop-ups%20in%20Chrome.md)
 
----
-
 [![Suwanee Logo](refs/Full%20Logo.png)](https://suwanee.com)
 
 All things Suwanee on 🚀 GitHub
