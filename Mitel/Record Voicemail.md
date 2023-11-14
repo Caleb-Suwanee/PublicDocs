@@ -1,4 +1,4 @@
-# Mitel - Record Voicemail
+# Record Voicemail
 
 >Reference this document for help logging into Mitel: [Login to Mitel](Login%20to%20Mitel.md)
 

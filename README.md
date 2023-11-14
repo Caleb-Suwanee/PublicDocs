@@ -8,7 +8,7 @@
 
 - [Login to Mitel](./Mitel/Login%20to%20Mitel.md)
 
-- [Mitel - Record Voicemail](./Mitel/Mitel%20-%20Record%20Voicemail.md)
+- [Record Voicemail](./Mitel/Record%20Voicemail.md)
 
 [![Suwanee Logo](refs/Full%20Logo.png)](https://suwanee.com)
 
