@@ -6,7 +6,7 @@
     ![View site info](refs/Enable%20Pop-ups%20in%20Chrome/1.png)
 
 1. Under the "Permissions" section, click on "Pop-ups and redirects."
-1. Turn on the toggle switch next to "Blocked (recommended)" to allow pop-ups from the website.
+1. Change the drop-down to allow pop-ups from the website.
 
     ![Allow](refs/Enable%20Pop-ups%20in%20Chrome/2.png)
 
