@@ -13,3 +13,7 @@
 1. Then click on **Voicemail** > **Setup**. You can then record your name at the bottom of the screen.
 
     ![Mitel Voicemail setup](../refs/Mitel/4.png)
+
+---
+
+[Back to Main](../README.md)
