@@ -22,7 +22,7 @@
 
 - A Duo Authentication window will open. Click **Remember me for 30 days** and then click **Send Me a Push**.
 
->If a different window does not open then you need to enable pop-ups in your browser for [vpn.suwanee.com](http://vpn.suwanee.com)
+>If a different window does not open then you need to enable pop-ups in your browser for [vpn.suwanee.com](https://vpn.suwanee.com)
 
 ![Send Duo Push](refs/AccessTimesheetsOnline/4.png)
 
