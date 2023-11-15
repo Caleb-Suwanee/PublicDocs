@@ -1,6 +1,6 @@
 # Record Voicemail
 
->Reference this document for help logging into Mitel: [Login to Mitel](Login%20to%20Mitel.md)
+>Reference this document for help logging into Mitel: [Login to Mitel](Login%20to%20Mitel)
 
 1. Open **Mitel Connect** on your Desktop.
 
@@ -16,4 +16,4 @@
 
 ---
 
-[Back to Main](../README.md)
+[Back to Main](../README)

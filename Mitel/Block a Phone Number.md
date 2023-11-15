@@ -4,7 +4,7 @@
 
 >When a blocked number calls, they will hear a voice that says *"thank you for calling"* then immediately hangs up the call with no option to record a voicemail.
 
->Reference this document for help logging into Mitel: [Login to Mitel](Login%20to%20Mitel.md)
+>Reference this document for help logging into Mitel: [Login to Mitel](Login%20to%20Mitel)
 
 1. Open **Mitel Connect** on your Desktop.
 
@@ -36,4 +36,4 @@
 
 ---
 
-[Back to Main](../README.md)
+[Back to Main](../README)

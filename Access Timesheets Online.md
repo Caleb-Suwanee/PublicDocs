@@ -22,7 +22,7 @@
 
 - A Duo Authentication window will open. Click **Remember me for 30 days** and then click **Send Me a Push**.
 
->If a different window does not open then you need to enable pop-ups in your browser. Follow these instructions: [Enable Pop-ups in Chrome](Enable%20Pop-ups%20in%20Chrome.md)
+>If a different window does not open then you need to enable pop-ups in your browser. Follow these instructions: [Enable Pop-ups in Chrome](Enable%20Pop-ups%20in%20Chrome)
 
 ![Send Duo Push](refs/AccessTimesheetsOnline/4.png)
 
@@ -47,4 +47,4 @@
 
 ---
 
-[Back to Main](README.md)
+[Back to Main](README)
