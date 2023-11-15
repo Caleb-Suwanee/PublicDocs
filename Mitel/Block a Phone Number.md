@@ -6,8 +6,6 @@
 
 >Reference this document for help logging into Mitel: [Login to Mitel](Login%20to%20Mitel.md)
 
----
-
 1. Open **Mitel Connect** on your Desktop.
 
     ![Mitel Logo](../refs/Mitel/1.png)
