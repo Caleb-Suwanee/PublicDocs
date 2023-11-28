@@ -1,8 +1,8 @@
 # Suwanee Public Documentation
 
-## - [Access Timesheets Online](Access%20Timesheets%20Online)
+## - [Miscellaneous](Miscellaneous/Miscellaneous)
 
-## - [Enable Pop-ups in Chrome](Enable%20Pop-ups%20in%20Chrome)
+- [Enable Pop-ups in Chrome](Miscellaneous/Enable%20Pop-ups%20in%20Chrome)
 
 ## - [Mitel](Mitel/Mitel)
 
@@ -11,6 +11,10 @@
 - [Record Voicemail](Mitel/Record%20Voicemail)
 
 - [Block a Phone Number](Mitel/Block%20a%20Phone%20Number)
+
+## - [VPN](VPN/VPN)
+
+- [Access Timesheets Online](VPN/Access%20Timesheets%20Online)
 
 [![Suwanee Logo](refs/Full%20Logo.png)](https://suwanee.com)
 
