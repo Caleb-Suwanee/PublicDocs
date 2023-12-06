@@ -42,6 +42,8 @@ The Council Agenda can be accessed online and remotely by using the Suwanee Virt
 
 ![Council Web Sharing module](../refs/AccessCouncilAgenda/7.png)
 
+- Navigate to the **Agenda** folder.
+
 ![Agenda Folder](../refs/AccessCouncilAgenda/8.png)
 
 - Inside the **Agenda** folder you will find the Council Meeting & Workshop files.
