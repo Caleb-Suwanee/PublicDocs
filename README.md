@@ -3,6 +3,7 @@
 ## - [Miscellaneous](Miscellaneous/Miscellaneous)
 
 - [Enable Pop-ups in Chrome](Miscellaneous/Enable%20Pop-ups%20in%20Chrome)
+- [Access Outlook Online](Miscellaneous/Access%20Outlook%20Online)
 
 ## - [Mitel](Mitel/Mitel)
 
@@ -15,6 +16,6 @@
 - [Access Timesheets Online](VPN/Access%20Timesheets%20Online)
 - [Access Council Agenda](VPN/Access%20Council%20Agenda)
 
-[![Suwanee Logo](refs/Full%20Logo.png)](https://suwanee.com)
+[![Suwanee Logo](refs/Full%20Logo.png)](https://caleb-suwanee.github.io/PublicDocs/)
 
 All things Suwanee on 🚀 GitHub
